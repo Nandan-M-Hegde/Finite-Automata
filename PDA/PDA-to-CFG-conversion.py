@@ -1,5 +1,5 @@
-#Owner: Nandan M Hegde
-#Program to convert a PDA which accepts by empty stack to CFG
+"""Owner: Nandan M Hegde"""
+"""Program to convert a PDA which accepts by empty stack to CFG"""
 
 class PDA:
     def readn(self):
